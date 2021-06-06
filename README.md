@@ -6,8 +6,8 @@
 
 * AWS Cloud9
 * Ruby
-* Git
-* Heroku
+* Rails
+* Git(HTTPSからSSH通信へ変更)
 
 ```
 $ git clone https://github.com/sample-874/sample-app.git
